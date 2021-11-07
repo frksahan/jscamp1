@@ -89,3 +89,4 @@ let {id,name} = category
 console.log(id)
 console.log(name)
 
+//merhaba
